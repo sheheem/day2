@@ -1,3 +1,6 @@
 function newGen() {
-	console.log('Hello World');
+
+	return console.log('Hello World');
 }
+
+const newWorld = newGen();
